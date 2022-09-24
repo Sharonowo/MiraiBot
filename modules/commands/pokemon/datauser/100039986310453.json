@@ -1,0 +1,27 @@
+{
+  "name": "Nguyễn Duyên Đạt",
+  "ID": "100039986310453",
+  "pet": [
+    {
+      "name": "Zebstrika",
+      "type": "Electric",
+      "HP": "112.5",
+      "Attack": "150.0",
+      "Defense": "94.5",
+      "Speed": "174.0",
+      "skill": [
+        "Lightning Rod",
+        "Motor Drive",
+        "Sap Sipper"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/523.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

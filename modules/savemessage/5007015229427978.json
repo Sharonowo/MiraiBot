@@ -1,0 +1,178 @@
+{
+    "100052992066604": [
+        {
+            "type": "message",
+            "name": "Nguyễn Thị Khánh Huyền",
+            "message": "Kết Nối thành công ⚙️\nprefix Bot là /",
+            "time": "29/07/2022 20:45:35",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Thị Khánh Huyền",
+            "message": "Đã bật chế độ chống out chùa.\nNghiêm cấm hành vi quấy rối.",
+            "time": "29/07/2022 20:45:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Thị Khánh Huyền",
+            "message": "Đã kích hoạt tự động đặt biệt danh cho Đặng Phương Thảo là  (TVM)",
+            "time": "29/07/2022 20:45:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Thị Khánh Huyền",
+            "message": "Đặng Phương Thảo Đã tự rời khỏi nhóm",
+            "time": "29/07/2022 20:45:54",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "304662861842045",
+                    "filename": "gif-304662861842045",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "previewWidth": 373,
+                    "previewHeight": 444,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "width": 373,
+                    "height": 444,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "name": "gif-304662861842045",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/271443220_626530735344876_868794249061796397_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=epQ9lhHL-ZwAX_fmbqr&_nc_ht=cdn.fbsbx.com&oh=03_AVK7rbQXVZjo1nIk6Guh4_jqxiAljuIUcpGAo3qPIxec3A&oe=62E5D576"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Thị Khánh Huyền",
+            "message": "‎Chào mừng con vợ Đặng Phương Thảo .\nChào mừng đã đến với nhóm 11h30 .\nbạn là thành viên thứ 7 của nhóm. Tương tác nhiều để tránh bị kick nhé :3",
+            "time": "29/07/2022 20:46:00",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "742479810297078",
+                    "filename": "gif-742479810297078",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "previewWidth": 250,
+                    "previewHeight": 188,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "width": 250,
+                    "height": 188,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "name": "gif-742479810297078",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/278983109_721356295545299_7124410599211764969_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=041f46&_nc_ohc=Uww4KFQnIqgAX_3fpZZ&_nc_ht=cdn.fbsbx.com&oh=03_AVKnNB-OTA1MPieQCU3vPCdX21bKnzZESLEyy3a0xTSrIQ&oe=62E5BCAE"
+                }
+            ]
+        }
+    ],
+    "100072231953591": [
+        {
+            "type": "message",
+            "name": "Đặng Phương Thảo",
+            "message": "",
+            "time": "29/07/2022 20:45:35",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "840551556932807",
+                    "filename": "image-840551556932807",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/294751091_1362217277635046_8680228932214784577_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9I6HTUv4JxUAX8qGP4-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLPFeEsT7bFEGVvKooPIj59aMqbflnE-5NX-eXwoimCHQ&oe=630A14FE",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/294751091_1362217277635046_8680228932214784577_n.jpg?stp=dst-jpg_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9I6HTUv4JxUAX8qGP4-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL_1f0kyzfAxOw6PacUOi41__x-5waadxGsdcl3yUo9QA&oe=630A14FE",
+                    "previewWidth": 373,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/294751091_1362217277635046_8680228932214784577_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9I6HTUv4JxUAX8qGP4-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKEKkc9faz5kK0rZ3eB8NqPR6hypg2a5xJR2nFkziXK8Q&oe=630A14FE",
+                    "largePreviewWidth": 640,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/294751091_1362217277635046_8680228932214784577_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9I6HTUv4JxUAX8qGP4-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKEKkc9faz5kK0rZ3eB8NqPR6hypg2a5xJR2nFkziXK8Q&oe=630A14FE",
+                    "width": 1242,
+                    "height": 932,
+                    "name": "image-840551556932807"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Đặng Phương Thảo",
+            "message": "cho bố out",
+            "time": "29/07/2022 20:46:08",
+            "attachment": []
+        }
+    ],
+    "100049848123515": [
+        {
+            "type": "message",
+            "name": "Lê Thùy Trang",
+            "message": "/antiout",
+            "time": "29/07/2022 20:45:41",
+            "attachment": []
+        }
+    ],
+    "100030050717942": [
+        {
+            "type": "message",
+            "name": "Huỳnh Ngọc Thảo My",
+            "message": "@Lê Thùy Trang  tag thg này zô",
+            "time": "29/07/2022 20:45:42",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Huỳnh Ngọc Thảo My",
+            "message": "@Lê Thùy Trang  tag link thg này zô em",
+            "time": "29/07/2022 20:45:54",
+            "attachment": []
+        }
+    ],
+    "100050609160957": [
+        {
+            "type": "message",
+            "name": "Phuong Linh",
+            "message": "dm gì đây",
+            "time": "29/07/2022 20:45:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Phuong Linh",
+            "message": "điên hết r",
+            "time": "29/07/2022 20:45:46",
+            "attachment": []
+        }
+    ],
+    "100054027188464": [
+        {
+            "type": "message_reply",
+            "name": "Thảo Ly",
+            "message": "Bố mẹ t ly hôn là t mồ côi hả",
+            "time": "29/07/2022 20:45:56",
+            "attachment": []
+        }
+    ],
+    "100041084723238": [
+        {
+            "type": "message",
+            "name": "David Tuấn Hưng",
+            "message": "kick bot di",
+            "time": "29/07/2022 20:46:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "David Tuấn Hưng",
+            "message": "nooooo",
+            "time": "29/07/2022 20:46:06",
+            "attachment": []
+        }
+    ]
+}

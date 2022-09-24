@@ -1,0 +1,68 @@
+{
+  "name": "Phạm Đắc Thanh",
+  "ID": "100024623359937",
+  "pet": [
+    {
+      "name": "Scrafty",
+      "type": "Dark",
+      "HP": "97.54.875",
+      "Attack": "135.06.75",
+      "Defense": "172.58.625",
+      "Speed": "87.04.35",
+      "skill": [
+        "Shed Skin",
+        "Moxie",
+        "Intimidate"
+      ],
+      "coins": 26935.125,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/560.png"
+    },
+    {
+      "name": "Kabutops",
+      "type": "Rock",
+      "HP": "24.0",
+      "Attack": "46.0",
+      "Defense": "42.0",
+      "Speed": "32.0",
+      "skill": [
+        "Swift Swim",
+        "Battle Armor",
+        "Weak Armor"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/141.png"
+    },
+    {
+      "name": "Victini",
+      "type": "Psychic",
+      "HP": "50.02.5",
+      "Attack": "50.02.5",
+      "Defense": "50.02.5",
+      "Speed": "50.02.5",
+      "skill": [
+        "Victory Star"
+      ],
+      "coins": 5250,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/494.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": "105.0",
+      "Attack": "150.0",
+      "Defense": "90.0",
+      "Speed": "95.0",
+      "skill": [
+        "Air Lock"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 5,
+    "lose": 0,
+    "draw": 2
+  }
+}

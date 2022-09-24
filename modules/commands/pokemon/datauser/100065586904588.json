@@ -1,0 +1,27 @@
+{
+  "name": "Nguyễn Đinh Tiến Dũng :( !!! ②⓪⓪② ۝",
+  "ID": "100065586904588",
+  "pet": [
+    {
+      "name": "Liepard",
+      "type": "Dark",
+      "HP": "96.0",
+      "Attack": "132.0",
+      "Defense": "75.0",
+      "Speed": "159.0",
+      "skill": [
+        "Limber",
+        "Unburden",
+        "Prankster"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/510.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

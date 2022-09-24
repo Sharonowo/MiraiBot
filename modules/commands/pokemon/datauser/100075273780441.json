@@ -1,0 +1,27 @@
+{
+  "name": "Đỗ Thị Ngọc Linh",
+  "ID": "100075273780441",
+  "pet": [
+    {
+      "name": "Kingler",
+      "type": "Water",
+      "HP": "82.5",
+      "Attack": "195.0",
+      "Defense": "172.5",
+      "Speed": "112.5",
+      "skill": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/099.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

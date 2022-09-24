@@ -1,0 +1,18 @@
+{
+    "name": "Nguyễn Đinh Tiến Dũng",
+    "ID": "100040705111269",
+    "shield": 3,
+    "coins": 20000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "10:41:21, 17/3/2022"
+}
